@@ -1,1 +1,1 @@
-Clean CentOS 7 Base Image
+CentOS 7 Base Image for Docker
